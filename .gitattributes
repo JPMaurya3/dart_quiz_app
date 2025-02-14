@@ -1,2 +1,2 @@
 * linguist-vendored
-*.flutter linguist-vendored=false
+*.dart linguist-vendored=false
